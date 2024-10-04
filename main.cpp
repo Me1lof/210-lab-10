@@ -3,7 +3,8 @@ using namespace std;
 
 int main() {
 
-    // add any code here, sort of a 'hello world plus' code block
+    cout << "Hello World" << endl;
+    cout << "Welcome to COMSC 210 Lab" << endl;
 
     return 0;
 }
